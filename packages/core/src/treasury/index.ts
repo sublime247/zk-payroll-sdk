@@ -45,3 +45,4 @@ export * from "./replenishmentReadiness";
 
 // ── Payer Account Status Reader (#559) ─────────────────────────────────────
 export * from "./payerAccountStatus";
+export * from "./balanceBufferEnforcement";

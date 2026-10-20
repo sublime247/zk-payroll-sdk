@@ -11,3 +11,4 @@ export * from "./grantScope";
 export * from "./historicalPayrollAccessAuthorization";
 export * from "./auditRetentionSafeguards";
 export * from "./sequenceVerification";
+export * from "./responsibilityDelegationAudit";

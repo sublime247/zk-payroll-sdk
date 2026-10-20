@@ -260,3 +260,15 @@ export * from "./policy/effectiveDateGuardrails";
 
 // ── Duplicate Payout Instruction Detection ──────────────────────────────────
 export * from "./payroll/duplicatePayoutInstructionDetector";
+
+// ── Payroll Responsibility Delegation Audit (#708) ─────────────────────────
+export * from "./audit/responsibilityDelegationAudit";
+
+// ── Payroll Period Reopening Restrictions (#707) ───────────────────────────
+export * from "./payroll/periodReopeningRestrictions";
+
+// ── Treasury Balance Buffer Enforcement (#706) ─────────────────────────────
+export * from "./treasury/balanceBufferEnforcement";
+
+// ── Emergency Payroll Pause Authorization (#692) ───────────────────────────
+export * from "./pause/emergencyPauseAuthorization";
